@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build PyInstaller
+build/
+dist/
+*.spec~
+*.log
+
+# Anciennes versions de script
+*.py-old
+
+# Données locales
+.DS_Store
