@@ -84,6 +84,17 @@ Then, in the Firefox window that opens:
 3. Return to the terminal and **press Enter**.
 4. The files are sorted into `Documents/Documents_MyPeopleDoc` by type / year.
 
+### macOS Permissions
+
+When running the script from the terminal on macOS, Firefox may prompt for file access permissions (required to access its profile directory).
+How to grant?
+
+    Click "Allow" when the system alert appears.
+    If denied, go to System Settings → Privacy & Security → Files and Folders, and enable Firefox (or your terminal).
+
+    Tip: Restart the terminal after granting permissions. If issues persist, remove Firefox from the permission list and re-launch it.
+
+
 ---
 
 ## 🐍 Running from source on Windows (advanced)
