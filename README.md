@@ -22,7 +22,7 @@ and then downloads each document into the right folder.
 
 ## 🪟 Usage on Windows (no Python required)
 
-1. **Download** `mypeopledoc-export.exe` from the latest release of the project.
+1. **Download** [mypeopledoc-export.exe](https://github.com/demarey/mypeopledoc-export/releases/download/1.0/mypeopledoc-export.exe) from the latest release of the project.
 2. **Double-click** the executable. A Firefox window opens.
 3. **Log in** normally to MyPeopleDoc (password + two-factor authentication if requested).
 4. **Go to "Mes documents"**.
